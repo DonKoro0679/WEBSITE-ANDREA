@@ -57,7 +57,7 @@ align-self: center;
 
 }
 body{
-    background-image: url(col.jpg);
+    background-image: url(imagenes/col.jpg);
     background-position: center;
     background-size: cover;
     background-attachment: fixed;

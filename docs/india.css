@@ -57,7 +57,7 @@ align-self: center;
 
 }
 body{
-    background-image: url(tmhl.jpg);
+    background-image: url(imagenes/tmhl.jpg);
     background-position: center;
     background-size: cover;
     background-attachment: fixed;

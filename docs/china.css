@@ -57,7 +57,7 @@ align-self: center;
 
 }
 body{
-    background-image: url(wall.jpg);
+    background-image: url(imagenes/wall.jpg);
     background-position: center;
     background-size: cover;
     background-attachment: fixed;
